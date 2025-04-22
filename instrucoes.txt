@@ -1,1 +1,1 @@
-Alteração da descrição para um novo projeto ;)
+Alteração no arquivo não gerou conflitos após merge, feito commit final
